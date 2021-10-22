@@ -1,2 +1,2 @@
 # fgui-refCheck
-fairyGUI denpendency check
+fairyGUI resource dependency check
